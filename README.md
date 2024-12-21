@@ -1,2 +1,3 @@
-# ChaosTGBurnBot
-A simple Telegram bot that send a message when aixbt burns CHAOS
+# Token Burn Tracker Bot 🔥
+
+A Telegram bot that tracks aixbt_agent CHAOS token burns.
